@@ -11,6 +11,8 @@ Use the command below to install all required dependencies:
 $ npm install
 ```
 
+### How to run tasks:
+
 - Task 1
 
 ```ps
