@@ -1,0 +1,24 @@
+{
+  "name": "weekly-task-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task1": "node ./src/task1.js",
+    "task2": "node ./src/task2.js",
+    "task3": "node ./src/task3.js",
+    "task4": "node ./src/task4.js",
+    "task5": "node index.js"
+  },
+  "keywords": [
+    "Weekly Task 2",
+    "Koda"
+  ],
+  "author": "Farid Rhamadhan Darari",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "globals": "^16.3.0"
+  }
+}
