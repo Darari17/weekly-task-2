@@ -38,7 +38,7 @@ $ npm run task4
 - Task 5
 
 ```ps
-$ npm run task1
+$ npm run task5
 ```
 
 © 2025 [Farid Rhamadhan Darari](https://github.com/Darari17)
